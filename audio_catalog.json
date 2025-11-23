@@ -2,44 +2,1742 @@
   "metadata": {
     "collection_name": "Nasheed Collection",
     "description": "Collection of Islamic vocal music (Nasheeds) for backup purposes",
-    "total_files": 100,
-    "last_updated": "2024-01-01",
+    "total_files": 115,
+    "last_updated": "2025-11-23",
     "format": "mp3",
-    "base_path": "/workspace"
+    "base_path": "C:\\Projects\\NasheedCollection",
+    "github_repo": "https://github.com/iamaanahmad/NasheedCollection",
+    "version": "1.0"
   },
   "files": [
     {
-      "id": 1,
-      "filename": "'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
-      "title": "Dearest Pyaareh Nabi",
+      "id": 16,
+      "filename": "A Longing Person - Sad nasheed - Eng Sub.mp3",
+      "title": "A Longing Person - Sad nasheed - Eng Sub",
+      "artist": "A Longing Person",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\A Longing Person - Sad nasheed - Eng Sub.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/A%20Longing%20Person%20-%20Sad%20nasheed%20-%20Eng%20Sub.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/A%20Longing%20Person%20-%20Sad%20nasheed%20-%20Eng%20Sub.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/A%20Longing%20Person%20-%20Sad%20nasheed%20-%20Eng%20Sub.mp3"
+      },
+      "category": "emotional",
+      "language": "english",
+      "tags": [
+        "emotional",
+        "english"
+      ]
+    },
+    {
+      "id": 18,
+      "filename": "Ahmad Hussain - Ya Taiba.mp3",
+      "title": "Ahmad Hussain - Ya Taiba",
+      "artist": "Ahmad Hussain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ahmad Hussain - Ya Taiba.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ahmad%20Hussain%20-%20Ya%20Taiba.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ahmad%20Hussain%20-%20Ya%20Taiba.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ahmad%20Hussain%20-%20Ya%20Taiba.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 19,
+      "filename": "Ahmed Bukhatir - Ya Adheeman.mp3",
+      "title": "Ahmed Bukhatir - Ya Adheeman",
+      "artist": "Ahmed Bukhatir",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ahmed Bukhatir - Ya Adheeman.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ahmed%20Bukhatir%20-%20Ya%20Adheeman.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ahmed%20Bukhatir%20-%20Ya%20Adheeman.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ahmed%20Bukhatir%20-%20Ya%20Adheeman.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 20,
+      "filename": "Ahmed Bukhatir - Ya Akhi (My Brother) __ ___.mp3",
+      "title": "Ahmed Bukhatir - Ya Akhi (My Brother) __ ___",
+      "artist": "Ahmed Bukhatir",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ahmed Bukhatir - Ya Akhi (My Brother) __ ___.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ahmed%20Bukhatir%20-%20Ya%20Akhi%20%28My%20Brother%29%20__%20___.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ahmed%20Bukhatir%20-%20Ya%20Akhi%20%28My%20Brother%29%20__%20___.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ahmed%20Bukhatir%20-%20Ya%20Akhi%20%28My%20Brother%29%20__%20___.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 33,
+      "filename": "Fartaqi by Ahmed Bukhatir.mp3",
+      "title": "Fartaqi",
+      "artist": "Ahmed Bukhatir",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Fartaqi by Ahmed Bukhatir.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Fartaqi%20by%20Ahmed%20Bukhatir.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Fartaqi%20by%20Ahmed%20Bukhatir.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Fartaqi%20by%20Ahmed%20Bukhatir.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 22,
+      "filename": "Al Hamdulillah - Beautiful Nasheed Thanks To Allah.mp3",
+      "title": "Al Hamdulillah - Beautiful Nasheed Thanks To Allah",
+      "artist": "Al Hamdulillah",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Al Hamdulillah - Beautiful Nasheed Thanks To Allah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Al%20Hamdulillah%20-%20Beautiful%20Nasheed%20Thanks%20To%20Allah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Al%20Hamdulillah%20-%20Beautiful%20Nasheed%20Thanks%20To%20Allah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Al%20Hamdulillah%20-%20Beautiful%20Nasheed%20Thanks%20To%20Allah.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 23,
+      "filename": "Al Hayat - Ahmed Al Muqit  Best Arabic Nasheed  الحياة - أحمد المقيط  (Eng Subs).mp3",
+      "title": "Al Hayat - Ahmed Al Muqit  Best Arabic Nasheed  الحياة - أحمد المقيط  (Eng Subs)",
+      "artist": "Al Hayat",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Al Hayat - Ahmed Al Muqit  Best Arabic Nasheed  الحياة - أحمد المقيط  (Eng Subs).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Al%20Hayat%20-%20Ahmed%20Al%20Muqit%20%20Best%20Arabic%20Nasheed%20%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%20-%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20%20%28Eng%20Subs%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Al%20Hayat%20-%20Ahmed%20Al%20Muqit%20%20Best%20Arabic%20Nasheed%20%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%20-%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20%20%28Eng%20Subs%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Al%20Hayat%20-%20Ahmed%20Al%20Muqit%20%20Best%20Arabic%20Nasheed%20%20%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%A9%20-%20%D8%A3%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20%20%28Eng%20Subs%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 24,
+      "filename": "Al Madeena  Beautiful Arabic Nasheed  - Al Madeena  Beautiful Arabic Nasheed .mp3",
+      "title": "Al Madeena  Beautiful Arabic Nasheed  - Al Madeena  Beautiful Arabic Nasheed",
+      "artist": "Al Madeena  Beautiful Arabic Nasheed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Al Madeena  Beautiful Arabic Nasheed  - Al Madeena  Beautiful Arabic Nasheed .mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20%20-%20Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20%20-%20Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20%20-%20Al%20Madeena%20%20Beautiful%20Arabic%20Nasheed%20.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 91,
+      "filename": "Sharey Tin Haat - Ali Gulam - O My Lord (Bangla).mp3",
+      "title": "Sharey Tin Haat - Ali Gulam - O My Lord (Bangla)",
+      "artist": "Ali Gulam",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Sharey Tin Haat - Ali Gulam - O My Lord (Bangla).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Sharey%20Tin%20Haat%20-%20Ali%20Gulam%20-%20O%20My%20Lord%20%28Bangla%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Sharey%20Tin%20Haat%20-%20Ali%20Gulam%20-%20O%20My%20Lord%20%28Bangla%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Sharey%20Tin%20Haat%20-%20Ali%20Gulam%20-%20O%20My%20Lord%20%28Bangla%29.mp3"
+      },
+      "category": "supplication",
+      "language": "bangla",
+      "tags": [
+        "supplication",
+        "bangla"
+      ]
+    },
+    {
+      "id": 32,
+      "filename": "Farhat al amr - Anas Dosari.mp3",
+      "title": "Farhat al amr - Anas Dosari",
+      "artist": "Anas Dosari",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Farhat al amr - Anas Dosari.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Farhat%20al%20amr%20-%20Anas%20Dosari.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Farhat%20al%20amr%20-%20Anas%20Dosari.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Farhat%20al%20amr%20-%20Anas%20Dosari.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 25,
+      "filename": "Arrows of Yesterday - Castillo Nasheeds.mp3",
+      "title": "Arrows of Yesterday - Castillo Nasheeds",
+      "artist": "Arrows of Yesterday",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Arrows of Yesterday - Castillo Nasheeds.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Arrows%20of%20Yesterday%20-%20Castillo%20Nasheeds.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Arrows%20of%20Yesterday%20-%20Castillo%20Nasheeds.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Arrows%20of%20Yesterday%20-%20Castillo%20Nasheeds.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 29,
+      "filename": "Beats of Happiness - Eid Nasheed.mp3",
+      "title": "Beats of Happiness - Eid Nasheed",
+      "artist": "Beats of Happiness",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Beats of Happiness - Eid Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Beats%20of%20Happiness%20-%20Eid%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Beats%20of%20Happiness%20-%20Eid%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Beats%20of%20Happiness%20-%20Eid%20Nasheed.mp3"
+      },
+      "category": "seasonal",
+      "language": "english",
+      "tags": [
+        "seasonal",
+        "english"
+      ]
+    },
+    {
+      "id": 30,
+      "filename": "Beautiful Arabic Nasheed - Hoor al Ayn.mp3",
+      "title": "Beautiful Arabic Nasheed - Hoor al Ayn",
+      "artist": "Beautiful Arabic Nasheed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Beautiful Arabic Nasheed - Hoor al Ayn.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Beautiful%20Arabic%20Nasheed%20-%20Hoor%20al%20Ayn.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Beautiful%20Arabic%20Nasheed%20-%20Hoor%20al%20Ayn.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Beautiful%20Arabic%20Nasheed%20-%20Hoor%20al%20Ayn.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 55,
+      "filename": "Matir Bari - Ehsaan Tahmid - O My Lord (Bangla).mp3",
+      "title": "Matir Bari - Ehsaan Tahmid - O My Lord (Bangla)",
+      "artist": "Ehsaan Tahmid",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Matir Bari - Ehsaan Tahmid - O My Lord (Bangla).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Matir%20Bari%20-%20Ehsaan%20Tahmid%20-%20O%20My%20Lord%20%28Bangla%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Matir%20Bari%20-%20Ehsaan%20Tahmid%20-%20O%20My%20Lord%20%28Bangla%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Matir%20Bari%20-%20Ehsaan%20Tahmid%20-%20O%20My%20Lord%20%28Bangla%29.mp3"
+      },
+      "category": "supplication",
+      "language": "bangla",
+      "tags": [
+        "supplication",
+        "bangla"
+      ]
+    },
+    {
+      "id": 34,
+      "filename": "Forgive Me - Mind Blowing Nasheed.mp3",
+      "title": "Forgive Me - Mind Blowing Nasheed",
+      "artist": "Forgive Me",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Forgive Me - Mind Blowing Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Forgive%20Me%20-%20Mind%20Blowing%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Forgive%20Me%20-%20Mind%20Blowing%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Forgive%20Me%20-%20Mind%20Blowing%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 36,
+      "filename": "Ghuraba (The Strangers) Exclusive New Version - Nasheed.mp3",
+      "title": "Ghuraba (The Strangers) Exclusive New Version - Nasheed",
+      "artist": "Ghuraba (The Strangers) Exclusive New Version",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ghuraba (The Strangers) Exclusive New Version - Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ghuraba%20%28The%20Strangers%29%20Exclusive%20New%20Version%20-%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ghuraba%20%28The%20Strangers%29%20Exclusive%20New%20Version%20-%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ghuraba%20%28The%20Strangers%29%20Exclusive%20New%20Version%20-%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 38,
+      "filename": "Here I Am Allah - Beautiful Nasheed.mp3",
+      "title": "Here I Am Allah - Beautiful Nasheed",
+      "artist": "Here I Am Allah",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Here I Am Allah - Beautiful Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Here%20I%20Am%20Allah%20-%20Beautiful%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Here%20I%20Am%20Allah%20-%20Beautiful%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Here%20I%20Am%20Allah%20-%20Beautiful%20Nasheed.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 109,
+      "filename": "Ya Ilahi - Powerful Nasheed By Ishaq Ayubi.mp3",
+      "title": "Ya Ilahi - Powerful Nasheed",
+      "artist": "Ishaq Ayubi",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ya Ilahi - Powerful Nasheed By Ishaq Ayubi.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ya%20Ilahi%20-%20Powerful%20Nasheed%20By%20Ishaq%20Ayubi.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ya%20Ilahi%20-%20Powerful%20Nasheed%20By%20Ishaq%20Ayubi.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ya%20Ilahi%20-%20Powerful%20Nasheed%20By%20Ishaq%20Ayubi.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 40,
+      "filename": "Kamal Uddin-His Name is Muhammad.mp3",
+      "title": "Kamal Uddin-His Name is Muhammad",
+      "artist": "Kamal Uddin",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Kamal Uddin-His Name is Muhammad.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Kamal%20Uddin-His%20Name%20is%20Muhammad.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Kamal%20Uddin-His%20Name%20is%20Muhammad.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Kamal%20Uddin-His%20Name%20is%20Muhammad.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 41,
+      "filename": "Khaled Siddique - Home (Official Nasheed Video).mp3",
+      "title": "Khaled Siddique - Home (Official Nasheed Video)",
+      "artist": "Khaled Siddique",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Khaled Siddique - Home (Official Nasheed Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Khaled%20Siddique%20-%20Home%20%28Official%20Nasheed%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Khaled%20Siddique%20-%20Home%20%28Official%20Nasheed%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Khaled%20Siddique%20-%20Home%20%28Official%20Nasheed%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 42,
+      "filename": "Khaled Siddique - My Love (Official Nasheed Video).mp3",
+      "title": "Khaled Siddique - My Love (Official Nasheed Video)",
+      "artist": "Khaled Siddique",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Khaled Siddique - My Love (Official Nasheed Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Khaled%20Siddique%20-%20My%20Love%20%28Official%20Nasheed%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Khaled%20Siddique%20-%20My%20Love%20%28Official%20Nasheed%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Khaled%20Siddique%20-%20My%20Love%20%28Official%20Nasheed%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 26,
+      "filename": "Asma ul Husna by Labbayk  Voice Only Nasheed  Gratitude Album.mp3",
+      "title": "Asma ul Husna",
+      "artist": "Labbayk",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Asma ul Husna by Labbayk  Voice Only Nasheed  Gratitude Album.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Asma%20ul%20Husna%20by%20Labbayk%20%20Voice%20Only%20Nasheed%20%20Gratitude%20Album.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Asma%20ul%20Husna%20by%20Labbayk%20%20Voice%20Only%20Nasheed%20%20Gratitude%20Album.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Asma%20ul%20Husna%20by%20Labbayk%20%20Voice%20Only%20Nasheed%20%20Gratitude%20Album.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 44,
+      "filename": "Labbayk - Rabbana.mp3",
+      "title": "Labbayk - Rabbana",
+      "artist": "Labbayk",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Labbayk - Rabbana.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Labbayk%20-%20Rabbana.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Labbayk%20-%20Rabbana.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Labbayk%20-%20Rabbana.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 45,
+      "filename": "Labbayk Allah Voice Only Beautiful Nasheed @ by Labbayk @ Gratitude Album.mp3",
+      "title": "Labbayk Allah Voice Only Beautiful Nasheed @",
+      "artist": "Labbayk",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Labbayk Allah Voice Only Beautiful Nasheed @ by Labbayk @ Gratitude Album.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Labbayk%20Allah%20Voice%20Only%20Beautiful%20Nasheed%20%40%20by%20Labbayk%20%40%20Gratitude%20Album.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Labbayk%20Allah%20Voice%20Only%20Beautiful%20Nasheed%20%40%20by%20Labbayk%20%40%20Gratitude%20Album.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Labbayk%20Allah%20Voice%20Only%20Beautiful%20Nasheed%20%40%20by%20Labbayk%20%40%20Gratitude%20Album.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 77,
+      "filename": "Nasheed by Labbayk - Prelude Track.mp3",
+      "title": "Nasheed- Prelude Track",
+      "artist": "Labbayk",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nasheed by Labbayk - Prelude Track.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nasheed%20by%20Labbayk%20-%20Prelude%20Track.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nasheed%20by%20Labbayk%20-%20Prelude%20Track.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nasheed%20by%20Labbayk%20-%20Prelude%20Track.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 86,
+      "filename": "Qasidah Burdah by Labbayk.mp3",
+      "title": "Qasidah Burdah",
+      "artist": "Labbayk",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Qasidah Burdah by Labbayk.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Qasidah%20Burdah%20by%20Labbayk.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Qasidah%20Burdah%20by%20Labbayk.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Qasidah%20Burdah%20by%20Labbayk.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 69,
+      "filename": "MY LORD - Short Nasheed.mp3",
+      "title": "MY LORD - Short Nasheed",
+      "artist": "MY LORD",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\MY LORD - Short Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/MY%20LORD%20-%20Short%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/MY%20LORD%20-%20Short%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/MY%20LORD%20-%20Short%20Nasheed.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 27,
+      "filename": "Barakallah Nasheed By Maher Zain (No Music) Only Vocals HD 1080P.mp3",
+      "title": "Barakallah Nasheed",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Barakallah Nasheed By Maher Zain (No Music) Only Vocals HD 1080P.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Barakallah%20Nasheed%20By%20Maher%20Zain%20%28No%20Music%29%20Only%20Vocals%20HD%201080P.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Barakallah%20Nasheed%20By%20Maher%20Zain%20%28No%20Music%29%20Only%20Vocals%20HD%201080P.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Barakallah%20Nasheed%20By%20Maher%20Zain%20%28No%20Music%29%20Only%20Vocals%20HD%201080P.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 49,
+      "filename": "Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music).mp3",
+      "title": "Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20Allahi%20Allah%20Kiya%20Karo%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20Allahi%20Allah%20Kiya%20Karo%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20Allahi%20Allah%20Kiya%20Karo%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3"
+      },
+      "category": "supplication",
+      "language": "urdu",
+      "tags": [
+        "supplication",
+        "urdu"
+      ]
+    },
+    {
+      "id": 50,
+      "filename": "Maher Zain - Always Be There - Vocals Only Version (No Music).mp3",
+      "title": "Maher Zain - Always Be There - Vocals Only Version (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - Always Be There - Vocals Only Version (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20Always%20Be%20There%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20Always%20Be%20There%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20Always%20Be%20There%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 51,
+      "filename": "Maher Zain - Insha Allah - English - Vocals Only Version (No Music).mp3",
+      "title": "Maher Zain - Insha Allah - English - Vocals Only Version (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - Insha Allah - English - Vocals Only Version (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20Insha%20Allah%20-%20English%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20Insha%20Allah%20-%20English%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20Insha%20Allah%20-%20English%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 52,
+      "filename": "Maher Zain - Mawlaya - Vocals Only Version (No Music).mp3",
+      "title": "Maher Zain - Mawlaya - Vocals Only Version (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - Mawlaya - Vocals Only Version (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20Mawlaya%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20Mawlaya%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20Mawlaya%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 53,
+      "filename": "Maher Zain - So Soon - Vocals Only Version (No Music).mp3",
+      "title": "Maher Zain - So Soon - Vocals Only Version (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - So Soon - Vocals Only Version (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20So%20Soon%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20So%20Soon%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20So%20Soon%20-%20Vocals%20Only%20Version%20%28No%20Music%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 54,
+      "filename": "Maher Zain - Ya Nabi Salam Alayka (International Version) l Vocals Only (No Music).mp3",
+      "title": "Maher Zain - Ya Nabi Salam Alayka (International Version) l Vocals Only (No Music)",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Maher Zain - Ya Nabi Salam Alayka (International Version) l Vocals Only (No Music).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Maher%20Zain%20-%20Ya%20Nabi%20Salam%20Alayka%20%28International%20Version%29%20l%20Vocals%20Only%20%28No%20Music%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Maher%20Zain%20-%20Ya%20Nabi%20Salam%20Alayka%20%28International%20Version%29%20l%20Vocals%20Only%20%28No%20Music%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Maher%20Zain%20-%20Ya%20Nabi%20Salam%20Alayka%20%28International%20Version%29%20l%20Vocals%20Only%20%28No%20Music%29.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 57,
+      "filename": "Mishari Rashid Al Afasy - Rahman.mp3",
+      "title": "Mishari Rashid Al Afasy - Rahman",
+      "artist": "Mishari Rashid Al Afasy",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Mishari Rashid Al Afasy - Rahman.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Mishari%20Rashid%20Al%20Afasy%20-%20Rahman.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Mishari%20Rashid%20Al%20Afasy%20-%20Rahman.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Mishari%20Rashid%20Al%20Afasy%20-%20Rahman.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 31,
+      "filename": "Enta Malaak (Ekaa) by Mohammed Alomari.mp3",
+      "title": "Enta Malaak (Ekaa)",
+      "artist": "Mohammed Alomari",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Enta Malaak (Ekaa) by Mohammed Alomari.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Enta%20Malaak%20%28Ekaa%29%20by%20Mohammed%20Alomari.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Enta%20Malaak%20%28Ekaa%29%20by%20Mohammed%20Alomari.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Enta%20Malaak%20%28Ekaa%29%20by%20Mohammed%20Alomari.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 39,
+      "filename": "I Seek Protection By Muhammad Al-Muqit.mp3",
+      "title": "I Seek Protection-Muqit",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\I Seek Protection By Muhammad Al-Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/I%20Seek%20Protection%20By%20Muhammad%20Al-Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/I%20Seek%20Protection%20By%20Muhammad%20Al-Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/I%20Seek%20Protection%20By%20Muhammad%20Al-Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "english",
+      "tags": [
+        "prophet",
+        "english"
+      ]
+    },
+    {
+      "id": 48,
+      "filename": "Ma al Qamar {Eng subtitles} - مع القمر- محمد المقيط - Muhammad Al-Muqit.mp3",
+      "title": "Ma al Qamar {Eng subtitles} - مع القمر- محمد المقيط - Muhammad Al-Muqit",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ma al Qamar {Eng subtitles} - مع القمر- محمد المقيط - Muhammad Al-Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ma%20al%20Qamar%20%7BEng%20subtitles%7D%20-%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20-%20Muhammad%20Al-Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ma%20al%20Qamar%20%7BEng%20subtitles%7D%20-%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20-%20Muhammad%20Al-Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ma%20al%20Qamar%20%7BEng%20subtitles%7D%20-%20%D9%85%D8%B9%20%D8%A7%D9%84%D9%82%D9%85%D8%B1-%20%D9%85%D8%AD%D9%85%D8%AF%20%D8%A7%D9%84%D9%85%D9%82%D9%8A%D8%B7%20-%20Muhammad%20Al-Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 67,
+      "filename": "My Complaint Is To Allah - Muhammad al-Muqit - Nasheed.mp3",
+      "title": "My Complaint Is To Allah - Muhammad al-Muqit - Nasheed",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\My Complaint Is To Allah - Muhammad al-Muqit - Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/My%20Complaint%20Is%20To%20Allah%20-%20Muhammad%20al-Muqit%20-%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/My%20Complaint%20Is%20To%20Allah%20-%20Muhammad%20al-Muqit%20-%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/My%20Complaint%20Is%20To%20Allah%20-%20Muhammad%20al-Muqit%20-%20Nasheed.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 98,
+      "filename": "The Feelings of Love - Muhammad al-Muqit.mp3",
+      "title": "The Feelings of Love - Muhammad al-Muqit",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Feelings of Love - Muhammad al-Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Feelings%20of%20Love%20-%20Muhammad%20al-Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Feelings%20of%20Love%20-%20Muhammad%20al-Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Feelings%20of%20Love%20-%20Muhammad%20al-Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "english",
+      "tags": [
+        "prophet",
+        "english"
+      ]
+    },
+    {
+      "id": 100,
+      "filename": "The Land of al-Haram ᴴᴰ - Powerful Nasheed - By- Muhammad al-Muqit.mp3",
+      "title": "The Land of al-Haram ᴴᴰ - Powerful Nasheed - By- Muhammad al-Muqit",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Land of al-Haram ᴴᴰ - Powerful Nasheed - By- Muhammad al-Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Land%20of%20al-Haram%20%E1%B4%B4%E1%B4%B0%20-%20Powerful%20Nasheed%20-%20By-%20Muhammad%20al-Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Land%20of%20al-Haram%20%E1%B4%B4%E1%B4%B0%20-%20Powerful%20Nasheed%20-%20By-%20Muhammad%20al-Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Land%20of%20al-Haram%20%E1%B4%B4%E1%B4%B0%20-%20Powerful%20Nasheed%20-%20By-%20Muhammad%20al-Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "english",
+      "tags": [
+        "prophet",
+        "english"
+      ]
+    },
+    {
+      "id": 107,
+      "filename": "Where I Find Rest - Powerful Nasheed - Muhammad Al-Muqit.mp3",
+      "title": "Where I Find Rest - Powerful Nasheed - Muhammad Al-Muqit",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Where I Find Rest - Powerful Nasheed - Muhammad Al-Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Where%20I%20Find%20Rest%20-%20Powerful%20Nasheed%20-%20Muhammad%20Al-Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Where%20I%20Find%20Rest%20-%20Powerful%20Nasheed%20-%20Muhammad%20Al-Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Where%20I%20Find%20Rest%20-%20Powerful%20Nasheed%20-%20Muhammad%20Al-Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "english",
+      "tags": [
+        "prophet",
+        "english"
+      ]
+    },
+    {
+      "id": 65,
+      "filename": "munshid Muhammad Al-Muqit- New taweel al shawq-Long Longing HD.mp3",
+      "title": "munshid Muhammad Al-Muqit- New taweel al shawq-Long Longing HD",
+      "artist": "Muhammad Al-Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\munshid Muhammad Al-Muqit- New taweel al shawq-Long Longing HD.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/munshid%20Muhammad%20Al-Muqit-%20New%20taweel%20al%20shawq-Long%20Longing%20HD.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/munshid%20Muhammad%20Al-Muqit-%20New%20taweel%20al%20shawq-Long%20Longing%20HD.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/munshid%20Muhammad%20Al-Muqit-%20New%20taweel%20al%20shawq-Long%20Longing%20HD.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 58,
+      "filename": "Muhammad al Muq - Tabsirah (Arabic Nasheed).mp3",
+      "title": "Muhammad al Muq - Tabsirah (Arabic Nasheed)",
+      "artist": "Muhammad al Muq",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muq - Tabsirah (Arabic Nasheed).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muq%20-%20Tabsirah%20%28Arabic%20Nasheed%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muq%20-%20Tabsirah%20%28Arabic%20Nasheed%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muq%20-%20Tabsirah%20%28Arabic%20Nasheed%29.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 46,
+      "filename": "Light of Guidance - Nasheed By Muhammad al Muqit.mp3",
+      "title": "Light of Guidance - Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Light of Guidance - Nasheed By Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Light%20of%20Guidance%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Light%20of%20Guidance%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Light%20of%20Guidance%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 47,
+      "filename": "Loyalty Nasheed by Muhammad al Muqit.mp3",
+      "title": "Loyalty Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Loyalty Nasheed by Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Loyalty%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Loyalty%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Loyalty%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 59,
+      "filename": "Muhammad al Muqit - Benevolent Rain.mp3",
+      "title": "Muhammad al Muqit - Benevolent Rain",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - Benevolent Rain.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20Benevolent%20Rain.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20Benevolent%20Rain.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20Benevolent%20Rain.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 60,
+      "filename": "Muhammad al Muqit - I Am Resistant.mp3",
+      "title": "Muhammad al Muqit - I Am Resistant",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - I Am Resistant.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20I%20Am%20Resistant.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20I%20Am%20Resistant.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20I%20Am%20Resistant.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 61,
+      "filename": "Muhammad al Muqit - I Rise.mp3",
+      "title": "Muhammad al Muqit - I Rise",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - I Rise.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20I%20Rise.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20I%20Rise.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20I%20Rise.mp3"
+      },
+      "category": "motivational",
+      "language": "arabic",
+      "tags": [
+        "motivational",
+        "arabic"
+      ]
+    },
+    {
+      "id": 62,
+      "filename": "Muhammad al Muqit - My Hope (Allah) Nasheed.mp3",
+      "title": "Muhammad al Muqit - My Hope (Allah) Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - My Hope (Allah) Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20My%20Hope%20%28Allah%29%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20My%20Hope%20%28Allah%29%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20My%20Hope%20%28Allah%29%20Nasheed.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 63,
+      "filename": "Muhammad al Muqit - My Messenger.mp3",
+      "title": "Muhammad al Muqit - My Messenger",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - My Messenger.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20My%20Messenger.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20My%20Messenger.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20My%20Messenger.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 64,
+      "filename": "Muhammad al Muqit - Welcome.mp3",
+      "title": "Muhammad al Muqit - Welcome",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Muhammad al Muqit - Welcome.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Muhammad%20al%20Muqit%20-%20Welcome.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Muhammad%20al%20Muqit%20-%20Welcome.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Muhammad%20al%20Muqit%20-%20Welcome.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 66,
+      "filename": "My Arabic Language - Nasheed By Muhammad al Muqit.mp3",
+      "title": "My Arabic Language - Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\My Arabic Language - Nasheed By Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/My%20Arabic%20Language%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/My%20Arabic%20Language%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/My%20Arabic%20Language%20-%20Nasheed%20By%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 68,
+      "filename": "My Dream - Short Nasheed By- Muhammad al Muqit.mp3",
+      "title": "My Dream - Short Nasheed By- Muhammad al Muqit",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\My Dream - Short Nasheed By- Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/My%20Dream%20-%20Short%20Nasheed%20By-%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/My%20Dream%20-%20Short%20Nasheed%20By-%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/My%20Dream%20-%20Short%20Nasheed%20By-%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "prophet",
+      "language": "arabic",
+      "tags": [
+        "prophet",
+        "arabic"
+      ]
+    },
+    {
+      "id": 70,
+      "filename": "My Lords Knowledge - Beautiful Soothing Nasheed by Muhammad al Muqit.mp3",
+      "title": "My Lords Knowledge - Beautiful Soothing Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\My Lords Knowledge - Beautiful Soothing Nasheed by Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/My%20Lords%20Knowledge%20-%20Beautiful%20Soothing%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/My%20Lords%20Knowledge%20-%20Beautiful%20Soothing%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/My%20Lords%20Knowledge%20-%20Beautiful%20Soothing%20Nasheed%20by%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 97,
+      "filename": "The Broken By Muhammad Al Muqit - New Nasheed.mp3",
+      "title": "The Broken- New Nasheed",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Broken By Muhammad Al Muqit - New Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Broken%20By%20Muhammad%20Al%20Muqit%20-%20New%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Broken%20By%20Muhammad%20Al%20Muqit%20-%20New%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Broken%20By%20Muhammad%20Al%20Muqit%20-%20New%20Nasheed.mp3"
+      },
+      "category": "emotional",
+      "language": "arabic",
+      "tags": [
+        "emotional",
+        "arabic"
+      ]
+    },
+    {
+      "id": 102,
+      "filename": "The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit.mp3",
+      "title": "The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Way%20of%20The%20Tears%20-%20Exclusive%20Nasheed%20-%20Muhammad%20al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Way%20of%20The%20Tears%20-%20Exclusive%20Nasheed%20-%20Muhammad%20al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Way%20of%20The%20Tears%20-%20Exclusive%20Nasheed%20-%20Muhammad%20al%20Muqit.mp3"
+      },
+      "category": "emotional",
+      "language": "arabic",
+      "tags": [
+        "emotional",
+        "arabic"
+      ]
+    },
+    {
+      "id": 71,
+      "filename": "Nadeem Mohammed -  By Allah (Official Acapella Video).mp3",
+      "title": "Nadeem Mohammed -",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed -  By Allah (Official Acapella Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20%20By%20Allah%20%28Official%20Acapella%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20%20By%20Allah%20%28Official%20Acapella%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20%20By%20Allah%20%28Official%20Acapella%20Video%29.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 72,
+      "filename": "Nadeem Mohammed - Ar-Rahman (Nasheed).mp3",
+      "title": "Nadeem Mohammed - Ar-Rahman (Nasheed)",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed - Ar-Rahman (Nasheed).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20Ar-Rahman%20%28Nasheed%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20Ar-Rahman%20%28Nasheed%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20Ar-Rahman%20%28Nasheed%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 73,
+      "filename": "Nadeem Mohammed - Believer (Nasheed).mp3",
+      "title": "Nadeem Mohammed - Believer (Nasheed)",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed - Believer (Nasheed).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20Believer%20%28Nasheed%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20Believer%20%28Nasheed%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20Believer%20%28Nasheed%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 74,
+      "filename": "Nadeem Mohammed - Catch Me When I Fall.mp3",
+      "title": "Nadeem Mohammed - Catch Me When I Fall",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed - Catch Me When I Fall.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20Catch%20Me%20When%20I%20Fall.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20Catch%20Me%20When%20I%20Fall.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20Catch%20Me%20When%20I%20Fall.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 75,
+      "filename": "Nadeem Mohammed - Just Keep Repeating (Official Acapella Video).mp3",
+      "title": "Nadeem Mohammed - Just Keep Repeating (Official Acapella Video)",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed - Just Keep Repeating (Official Acapella Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20Just%20Keep%20Repeating%20%28Official%20Acapella%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20Just%20Keep%20Repeating%20%28Official%20Acapella%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20Just%20Keep%20Repeating%20%28Official%20Acapella%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 76,
+      "filename": "Nadeem Mohammed - SubhanAllah (Official Acapella Video).mp3",
+      "title": "Nadeem Mohammed - SubhanAllah (Official Acapella Video)",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nadeem Mohammed - SubhanAllah (Official Acapella Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nadeem%20Mohammed%20-%20SubhanAllah%20%28Official%20Acapella%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nadeem%20Mohammed%20-%20SubhanAllah%20%28Official%20Acapella%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nadeem%20Mohammed%20-%20SubhanAllah%20%28Official%20Acapella%20Video%29.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 78,
+      "filename": "Nasheed Taballah - Darb al Saleen.mp3",
+      "title": "Nasheed Taballah - Darb al Saleen",
+      "artist": "Nasheed Taballah",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Nasheed Taballah - Darb al Saleen.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Nasheed%20Taballah%20-%20Darb%20al%20Saleen.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Nasheed%20Taballah%20-%20Darb%20al%20Saleen.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Nasheed%20Taballah%20-%20Darb%20al%20Saleen.mp3"
+      },
+      "category": "supplication",
+      "language": "arabic",
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 79,
+      "filename": "No God But Allah - EXCLUSIVE NASHEED.mp3",
+      "title": "No God But Allah - EXCLUSIVE NASHEED",
+      "artist": "No God But Allah",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\No God But Allah - EXCLUSIVE NASHEED.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/No%20God%20But%20Allah%20-%20EXCLUSIVE%20NASHEED.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/No%20God%20But%20Allah%20-%20EXCLUSIVE%20NASHEED.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/No%20God%20But%20Allah%20-%20EXCLUSIVE%20NASHEED.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 80,
+      "filename": "Oh My Lord - Heart Warming Nasheed.mp3",
+      "title": "Oh My Lord - Heart Warming Nasheed",
+      "artist": "Oh My Lord",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Oh My Lord - Heart Warming Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Oh%20My%20Lord%20-%20Heart%20Warming%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Oh%20My%20Lord%20-%20Heart%20Warming%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Oh%20My%20Lord%20-%20Heart%20Warming%20Nasheed.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 17,
+      "filename": "Adele - Hello (Muslim Version by Omar Esa).mp3",
+      "title": "Adele - Hello (Muslim Version",
       "artist": "Omar Esa",
       "format": "mp3",
-      "path": "/workspace/'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Adele - Hello (Muslim Version by Omar Esa).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Adele%20-%20Hello%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Adele%20-%20Hello%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Adele%20-%20Hello%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3"
+      },
       "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 1,
+      "filename": "'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "title": "Dearest Pyaareh Nabi' Official Nasheed Video",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/%27Dearest%20Pyaareh%20Nabi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/%27Dearest%20Pyaareh%20Nabi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/%27Dearest%20Pyaareh%20Nabi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3"
+      },
+      "category": "prophet",
       "language": "urdu",
-      "tags": ["prophet", "love", "devotional"]
+      "tags": [
+        "prophet",
+        "urdu"
+      ]
+    },
+    {
+      "id": 56,
+      "filename": "Mawlaya Salli - Omar Esa - Official Nasheed Video.mp3",
+      "title": "Mawlaya Salli - Omar Esa",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Mawlaya Salli - Omar Esa - Official Nasheed Video.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Mawlaya%20Salli%20-%20Omar%20Esa%20-%20Official%20Nasheed%20Video.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Mawlaya%20Salli%20-%20Omar%20Esa%20-%20Official%20Nasheed%20Video.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Mawlaya%20Salli%20-%20Omar%20Esa%20-%20Official%20Nasheed%20Video.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 81,
+      "filename": "Omar Esa - Dawah Ft. Muslim Belal (Official Nasheed Video).mp3",
+      "title": "Omar Esa - Dawah Ft. Muslim Belal (Official Nasheed Video)",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Omar Esa - Dawah Ft. Muslim Belal (Official Nasheed Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Omar%20Esa%20-%20Dawah%20Ft.%20Muslim%20Belal%20%28Official%20Nasheed%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Omar%20Esa%20-%20Dawah%20Ft.%20Muslim%20Belal%20%28Official%20Nasheed%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Omar%20Esa%20-%20Dawah%20Ft.%20Muslim%20Belal%20%28Official%20Nasheed%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 82,
+      "filename": "Omar Esa - Kun Anta - Be Yourself (Omar Esa Version).mp3",
+      "title": "Omar Esa - Kun Anta - Be Yourself (Omar Esa Version)",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Omar Esa - Kun Anta - Be Yourself (Omar Esa Version).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Omar%20Esa%20-%20Kun%20Anta%20-%20Be%20Yourself%20%28Omar%20Esa%20Version%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Omar%20Esa%20-%20Kun%20Anta%20-%20Be%20Yourself%20%28Omar%20Esa%20Version%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Omar%20Esa%20-%20Kun%20Anta%20-%20Be%20Yourself%20%28Omar%20Esa%20Version%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 83,
+      "filename": "Omar Esa - Rabb (Official Nasheed Video).mp3",
+      "title": "Omar Esa - Rabb (Official Nasheed Video)",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Omar Esa - Rabb (Official Nasheed Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Omar%20Esa%20-%20Rabb%20%28Official%20Nasheed%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Omar%20Esa%20-%20Rabb%20%28Official%20Nasheed%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Omar%20Esa%20-%20Rabb%20%28Official%20Nasheed%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 84,
+      "filename": "Omar Esa - Remembrance of Allah.mp3",
+      "title": "Omar Esa - Remembrance of Allah",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Omar Esa - Remembrance of Allah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Omar%20Esa%20-%20Remembrance%20of%20Allah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Omar%20Esa%20-%20Remembrance%20of%20Allah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Omar%20Esa%20-%20Remembrance%20of%20Allah.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 85,
+      "filename": "Omar Esa - Tera Pyaar  Your Love  (Official Nasheed Video).mp3",
+      "title": "Omar Esa - Tera Pyaar  Your Love  (Official Nasheed Video)",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Omar Esa - Tera Pyaar  Your Love  (Official Nasheed Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Omar%20Esa%20-%20Tera%20Pyaar%20%20Your%20Love%20%20%28Official%20Nasheed%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Omar%20Esa%20-%20Tera%20Pyaar%20%20Your%20Love%20%20%28Official%20Nasheed%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Omar%20Esa%20-%20Tera%20Pyaar%20%20Your%20Love%20%20%28Official%20Nasheed%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 95,
+      "filename": "Testify (Islam) - Exclusive Nasheed By- Omar Esa.mp3",
+      "title": "Testify (Islam) - Exclusive Nasheed By- Omar Esa",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Testify (Islam) - Exclusive Nasheed By- Omar Esa.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Testify%20%28Islam%29%20-%20Exclusive%20Nasheed%20By-%20Omar%20Esa.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Testify%20%28Islam%29%20-%20Exclusive%20Nasheed%20By-%20Omar%20Esa.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Testify%20%28Islam%29%20-%20Exclusive%20Nasheed%20By-%20Omar%20Esa.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 2,
       "filename": "'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
-      "title": "The Story of Taif",
+      "title": "The Story of Taif' Official Nasheed Video",
       "artist": "Omar Esa",
       "format": "mp3",
-      "path": "/workspace/'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
-      "category": "historical",
+      "path": "C:\\Projects\\NasheedCollection\\'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/%27The%20Story%20of%20Taif%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/%27The%20Story%20of%20Taif%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/%27The%20Story%20of%20Taif%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 104,
+      "filename": "Tum Hi Ho (Muslim Version by Omar Esa).mp3",
+      "title": "Tum Hi Ho (Muslim Version",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Tum Hi Ho (Muslim Version by Omar Esa).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Tum%20Hi%20Ho%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Tum%20Hi%20Ho%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Tum%20Hi%20Ho%20%28Muslim%20Version%20by%20Omar%20Esa%29.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["prophet", "history", "taif"]
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 3,
       "filename": "'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
-      "title": "Ya Rabbi",
+      "title": "Ya Rabbi' Official Nasheed Video",
       "artist": "Omar Esa",
       "format": "mp3",
-      "path": "/workspace/'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "path": "C:\\Projects\\NasheedCollection\\'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/%27Ya%20Rabbi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/%27Ya%20Rabbi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/%27Ya%20Rabbi%27%20Official%20Nasheed%20Video%20by%20Omar%20Esa.mp3"
+      },
       "category": "supplication",
       "language": "arabic",
-      "tags": ["dua", "prayer", "devotional"]
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 110,
+      "filename": "You're My Wife Alhumdullilah by Omar Esa - Typography.mp3",
+      "title": "You're My Wife Alhumdullilah- Typography",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\You're My Wife Alhumdullilah by Omar Esa - Typography.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/You%27re%20My%20Wife%20Alhumdullilah%20by%20Omar%20Esa%20-%20Typography.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/You%27re%20My%20Wife%20Alhumdullilah%20by%20Omar%20Esa%20-%20Typography.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/You%27re%20My%20Wife%20Alhumdullilah%20by%20Omar%20Esa%20-%20Typography.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 28,
+      "filename": "Be Happy - Motivational Nasheed - Othman Al Ibrahim.mp3",
+      "title": "Be Happy - Motivational Nasheed - Othman Al Ibrahim",
+      "artist": "Othman Al Ibrahim",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Be Happy - Motivational Nasheed - Othman Al Ibrahim.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Be%20Happy%20-%20Motivational%20Nasheed%20-%20Othman%20Al%20Ibrahim.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Be%20Happy%20-%20Motivational%20Nasheed%20-%20Othman%20Al%20Ibrahim.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Be%20Happy%20-%20Motivational%20Nasheed%20-%20Othman%20Al%20Ibrahim.mp3"
+      },
+      "category": "motivational",
+      "language": "arabic",
+      "tags": [
+        "motivational",
+        "arabic"
+      ]
+    },
+    {
+      "id": 89,
+      "filename": "Rawaa' Beautiful Nasheed By Raid al-Qahtani.mp3",
+      "title": "Rawaa' Beautiful Nasheed-Qahtani",
+      "artist": "Raid al-Qahtani",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Rawaa' Beautiful Nasheed By Raid al-Qahtani.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Rawaa%27%20Beautiful%20Nasheed%20By%20Raid%20al-Qahtani.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Rawaa%27%20Beautiful%20Nasheed%20By%20Raid%20al-Qahtani.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Rawaa%27%20Beautiful%20Nasheed%20By%20Raid%20al-Qahtani.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 88,
+      "filename": "Ramadan Is My Life - Amazing Nasheed.mp3",
+      "title": "Ramadan Is My Life - Amazing Nasheed",
+      "artist": "Ramadan Is My Life",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Ramadan Is My Life - Amazing Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Ramadan%20Is%20My%20Life%20-%20Amazing%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Ramadan%20Is%20My%20Life%20-%20Amazing%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Ramadan%20Is%20My%20Life%20-%20Amazing%20Nasheed.mp3"
+      },
+      "category": "seasonal",
+      "language": "english",
+      "tags": [
+        "seasonal",
+        "english"
+      ]
+    },
+    {
+      "id": 92,
+      "filename": "SUBHAN ALLAH - NASHEED - SUBHAN ALLAH - NASHEED.mp3",
+      "title": "SUBHAN ALLAH - NASHEED - SUBHAN ALLAH - NASHEED",
+      "artist": "SUBHAN ALLAH",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\SUBHAN ALLAH - NASHEED - SUBHAN ALLAH - NASHEED.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/SUBHAN%20ALLAH%20-%20NASHEED%20-%20SUBHAN%20ALLAH%20-%20NASHEED.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/SUBHAN%20ALLAH%20-%20NASHEED%20-%20SUBHAN%20ALLAH%20-%20NASHEED.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/SUBHAN%20ALLAH%20-%20NASHEED%20-%20SUBHAN%20ALLAH%20-%20NASHEED.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 93,
+      "filename": "SYRIA - Very Powerful Emotional Nasheed.mp3",
+      "title": "SYRIA - Very Powerful Emotional Nasheed",
+      "artist": "SYRIA",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\SYRIA - Very Powerful Emotional Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/SYRIA%20-%20Very%20Powerful%20Emotional%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/SYRIA%20-%20Very%20Powerful%20Emotional%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/SYRIA%20-%20Very%20Powerful%20Emotional%20Nasheed.mp3"
+      },
+      "category": "emotional",
+      "language": "arabic",
+      "tags": [
+        "emotional",
+        "arabic"
+      ]
+    },
+    {
+      "id": 12,
+      "filename": "09. Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus).mp3",
+      "title": "Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus)",
+      "artist": "Sami Yusuf",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\09. Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/09.%20Mesut%20Kurtis%20feat.%20Sami%20Yusuf%20-%20Burdah%20%28Bonus%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/09.%20Mesut%20Kurtis%20feat.%20Sami%20Yusuf%20-%20Burdah%20%28Bonus%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/09.%20Mesut%20Kurtis%20feat.%20Sami%20Yusuf%20-%20Burdah%20%28Bonus%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 90,
+      "filename": "Rhamzan - Seyifunmi (Official Nasheed Video)  No Music.mp3",
+      "title": "Rhamzan - Seyifunmi (Official Nasheed Video)  No Music",
+      "artist": "Seyifunmi",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Rhamzan - Seyifunmi (Official Nasheed Video)  No Music.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Rhamzan%20-%20Seyifunmi%20%28Official%20Nasheed%20Video%29%20%20No%20Music.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Rhamzan%20-%20Seyifunmi%20%28Official%20Nasheed%20Video%29%20%20No%20Music.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Rhamzan%20-%20Seyifunmi%20%28Official%20Nasheed%20Video%29%20%20No%20Music.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 94,
+      "filename": "TEAR AFTER TEAR - EMOTIONAL NASHEED.mp3",
+      "title": "TEAR AFTER TEAR - EMOTIONAL NASHEED",
+      "artist": "TEAR AFTER TEAR",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\TEAR AFTER TEAR - EMOTIONAL NASHEED.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/TEAR%20AFTER%20TEAR%20-%20EMOTIONAL%20NASHEED.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/TEAR%20AFTER%20TEAR%20-%20EMOTIONAL%20NASHEED.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/TEAR%20AFTER%20TEAR%20-%20EMOTIONAL%20NASHEED.mp3"
+      },
+      "category": "emotional",
+      "language": "arabic",
+      "tags": [
+        "emotional",
+        "arabic"
+      ]
+    },
+    {
+      "id": 96,
+      "filename": "The Beauty of Existence - Heart Touching Nasheed.mp3",
+      "title": "The Beauty of Existence - Heart Touching Nasheed",
+      "artist": "The Beauty of Existence",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Beauty of Existence - Heart Touching Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Beauty%20of%20Existence%20-%20Heart%20Touching%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Beauty%20of%20Existence%20-%20Heart%20Touching%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Beauty%20of%20Existence%20-%20Heart%20Touching%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 99,
+      "filename": "The Good Is Still Alive - Beautiful Nasheed.mp3",
+      "title": "The Good Is Still Alive - Beautiful Nasheed",
+      "artist": "The Good Is Still Alive",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Good Is Still Alive - Beautiful Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Good%20Is%20Still%20Alive%20-%20Beautiful%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Good%20Is%20Still%20Alive%20-%20Beautiful%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Good%20Is%20Still%20Alive%20-%20Beautiful%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 101,
+      "filename": "The Right Way - Powerful Vocal Nasheed.mp3",
+      "title": "The Right Way - Powerful Vocal Nasheed",
+      "artist": "The Right Way",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\The Right Way - Powerful Vocal Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/The%20Right%20Way%20-%20Powerful%20Vocal%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/The%20Right%20Way%20-%20Powerful%20Vocal%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/The%20Right%20Way%20-%20Powerful%20Vocal%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 103,
+      "filename": "They Passed Through Here - Inspirational Nasheed.mp3",
+      "title": "They Passed Through Here - Inspirational Nasheed",
+      "artist": "They Passed Through Here",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\They Passed Through Here - Inspirational Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/They%20Passed%20Through%20Here%20-%20Inspirational%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/They%20Passed%20Through%20Here%20-%20Inspirational%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/They%20Passed%20Through%20Here%20-%20Inspirational%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
     },
     {
       "id": 4,
@@ -47,10 +1745,37 @@
       "title": "A Time To Please Allah",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/01. A Time To Please Allah.mp3",
-      "category": "motivational",
+      "path": "C:\\Projects\\NasheedCollection\\01. A Time To Please Allah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/01.%20A%20Time%20To%20Please%20Allah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/01.%20A%20Time%20To%20Please%20Allah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/01.%20A%20Time%20To%20Please%20Allah.mp3"
+      },
+      "category": "supplication",
       "language": "english",
-      "tags": ["allah", "worship", "devotional"]
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 21,
+      "filename": "Al Ardu Nasheed.mp3",
+      "title": "Al Ardu Nasheed",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Al Ardu Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Al%20Ardu%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Al%20Ardu%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Al%20Ardu%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
     },
     {
       "id": 5,
@@ -58,10 +1783,18 @@
       "title": "Allah is Calling You",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/02. Allah is Calling You.mp3",
-      "category": "motivational",
+      "path": "C:\\Projects\\NasheedCollection\\02. Allah is Calling You.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/02.%20Allah%20is%20Calling%20You.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/02.%20Allah%20is%20Calling%20You.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/02.%20Allah%20is%20Calling%20You.mp3"
+      },
+      "category": "supplication",
       "language": "english",
-      "tags": ["allah", "calling", "guidance"]
+      "tags": [
+        "supplication",
+        "english"
+      ]
     },
     {
       "id": 6,
@@ -69,10 +1802,18 @@
       "title": "Allahu Allah",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/03. Allahu Allah.mp3",
-      "category": "dhikr",
-      "language": "arabic",
-      "tags": ["allah", "remembrance", "dhikr"]
+      "path": "C:\\Projects\\NasheedCollection\\03. Allahu Allah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/03.%20Allahu%20Allah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/03.%20Allahu%20Allah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/03.%20Allahu%20Allah.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
     },
     {
       "id": 7,
@@ -80,10 +1821,75 @@
       "title": "Every Morning",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/04. Every Morning.mp3",
-      "category": "motivational",
+      "path": "C:\\Projects\\NasheedCollection\\04. Every Morning.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/04.%20Every%20Morning.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/04.%20Every%20Morning.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/04.%20Every%20Morning.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["morning", "daily", "worship"]
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 35,
+      "filename": "Fortunate Is He.mp3",
+      "title": "Fortunate Is He",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Fortunate Is He.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Fortunate%20Is%20He.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Fortunate%20Is%20He.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Fortunate%20Is%20He.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 37,
+      "filename": "Hayatiz Zulli.mp3",
+      "title": "Hayatiz Zulli",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Hayatiz Zulli.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Hayatiz%20Zulli.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Hayatiz%20Zulli.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Hayatiz%20Zulli.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 43,
+      "filename": "Khalid Bin Walid the best nasheed.mp3",
+      "title": "Khalid Bin Walid the best nasheed",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Khalid Bin Walid the best nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Khalid%20Bin%20Walid%20the%20best%20nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Khalid%20Bin%20Walid%20the%20best%20nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Khalid%20Bin%20Walid%20the%20best%20nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 8,
@@ -91,10 +1897,18 @@
       "title": "Palestine",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/05. Palestine.mp3",
-      "category": "social",
+      "path": "C:\\Projects\\NasheedCollection\\05. Palestine.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/05.%20Palestine.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/05.%20Palestine.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/05.%20Palestine.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["palestine", "solidarity", "social"]
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 9,
@@ -102,10 +1916,37 @@
       "title": "Qad Kafani Ilmu Rabbi",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/06. Qad Kafani Ilmu Rabbi.mp3",
+      "path": "C:\\Projects\\NasheedCollection\\06. Qad Kafani Ilmu Rabbi.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/06.%20Qad%20Kafani%20Ilmu%20Rabbi.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/06.%20Qad%20Kafani%20Ilmu%20Rabbi.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/06.%20Qad%20Kafani%20Ilmu%20Rabbi.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 87,
+      "filename": "Qasidah Burdah nasheed.mp3",
+      "title": "Qasidah Burdah nasheed",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Qasidah Burdah nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Qasidah%20Burdah%20nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Qasidah%20Burdah%20nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Qasidah%20Burdah%20nasheed.mp3"
+      },
       "category": "religious",
-      "language": "arabic",
-      "tags": ["knowledge", "lord", "wisdom"]
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 10,
@@ -113,10 +1954,18 @@
       "title": "Surah Al-Fatiha",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/07. Surah Al-Fatiha.mp3",
+      "path": "C:\\Projects\\NasheedCollection\\07. Surah Al-Fatiha.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/07.%20Surah%20Al-Fatiha.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/07.%20Surah%20Al-Fatiha.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/07.%20Surah%20Al-Fatiha.mp3"
+      },
       "category": "quran",
-      "language": "arabic",
-      "tags": ["quran", "fatiha", "recitation"]
+      "language": "english",
+      "tags": [
+        "quran",
+        "english"
+      ]
     },
     {
       "id": 11,
@@ -124,21 +1973,18 @@
       "title": "The Greatest Gift",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/08. The Greatest Gift.mp3",
-      "category": "motivational",
+      "path": "C:\\Projects\\NasheedCollection\\08. The Greatest Gift.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/08.%20The%20Greatest%20Gift.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/08.%20The%20Greatest%20Gift.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/08.%20The%20Greatest%20Gift.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["gift", "blessing", "gratitude"]
-    },
-    {
-      "id": 12,
-      "filename": "09. Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus).mp3",
-      "title": "Burdah (Bonus)",
-      "artist": "Mesut Kurtis feat. Sami Yusuf",
-      "format": "mp3",
-      "path": "/workspace/09. Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus).mp3",
-      "category": "classical",
-      "language": "arabic",
-      "tags": ["burdah", "prophet", "classical"]
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 13,
@@ -146,10 +1992,18 @@
       "title": "The Path Of A Traveller",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/09. The Path Of A Traveller.mp3",
-      "category": "spiritual",
+      "path": "C:\\Projects\\NasheedCollection\\09. The Path Of A Traveller.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/09.%20The%20Path%20Of%20A%20Traveller.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/09.%20The%20Path%20Of%20A%20Traveller.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/09.%20The%20Path%20Of%20A%20Traveller.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["journey", "spiritual", "path"]
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 14,
@@ -157,10 +2011,18 @@
       "title": "Together We Pray",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/10. Together We Pray.mp3",
-      "category": "unity",
+      "path": "C:\\Projects\\NasheedCollection\\10. Together We Pray.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/10.%20Together%20We%20Pray.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/10.%20Together%20We%20Pray.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/10.%20Together%20We%20Pray.mp3"
+      },
+      "category": "religious",
       "language": "english",
-      "tags": ["prayer", "unity", "community"]
+      "tags": [
+        "religious",
+        "english"
+      ]
     },
     {
       "id": 15,
@@ -168,8 +2030,651 @@
       "title": "Ya Rabbi Bil Mustafa",
       "artist": "Unknown",
       "format": "mp3",
-      "path": "/workspace/11. Ya Rabbi Bil Mustafa.mp3",
+      "path": "C:\\Projects\\NasheedCollection\\11. Ya Rabbi Bil Mustafa.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/11.%20Ya%20Rabbi%20Bil%20Mustafa.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/11.%20Ya%20Rabbi%20Bil%20Mustafa.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/11.%20Ya%20Rabbi%20Bil%20Mustafa.mp3"
+      },
       "category": "supplication",
       "language": "arabic",
-      "tags": ["dua", "prophet", "mustafa"]
+      "tags": [
+        "supplication",
+        "arabic"
+      ]
+    },
+    {
+      "id": 105,
+      "filename": "We Rise to The Sky - Nasheed By Ahmad Al Muqit.mp3",
+      "title": "We Rise to The Sky - Nasheed",
+      "artist": "We Rise to The Sky",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\We Rise to The Sky - Nasheed By Ahmad Al Muqit.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/We%20Rise%20to%20The%20Sky%20-%20Nasheed%20By%20Ahmad%20Al%20Muqit.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/We%20Rise%20to%20The%20Sky%20-%20Nasheed%20By%20Ahmad%20Al%20Muqit.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/We%20Rise%20to%20The%20Sky%20-%20Nasheed%20By%20Ahmad%20Al%20Muqit.mp3"
+      },
+      "category": "motivational",
+      "language": "arabic",
+      "tags": [
+        "motivational",
+        "arabic"
+      ]
+    },
+    {
+      "id": 106,
+      "filename": "Were Going Home - Heart Touching Nasheed.mp3",
+      "title": "Were Going Home - Heart Touching Nasheed",
+      "artist": "Were Going Home",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Were Going Home - Heart Touching Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Were%20Going%20Home%20-%20Heart%20Touching%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Were%20Going%20Home%20-%20Heart%20Touching%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Were%20Going%20Home%20-%20Heart%20Touching%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 108,
+      "filename": "Withered Leaves - Peaceful Nasheed.mp3",
+      "title": "Withered Leaves - Peaceful Nasheed",
+      "artist": "Withered Leaves",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Withered Leaves - Peaceful Nasheed.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Withered%20Leaves%20-%20Peaceful%20Nasheed.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Withered%20Leaves%20-%20Peaceful%20Nasheed.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Withered%20Leaves%20-%20Peaceful%20Nasheed.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 111,
+      "filename": "Yusuf Islam - Tala Al Badru Alayna.mp3",
+      "title": "Yusuf Islam - Tala Al Badru Alayna",
+      "artist": "Yusuf Islam",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Yusuf Islam - Tala Al Badru Alayna.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Yusuf%20Islam%20-%20Tala%20Al%20Badru%20Alayna.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Yusuf%20Islam%20-%20Tala%20Al%20Badru%20Alayna.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Yusuf%20Islam%20-%20Tala%20Al%20Badru%20Alayna.mp3"
+      },
+      "category": "religious",
+      "language": "arabic",
+      "tags": [
+        "religious",
+        "arabic"
+      ]
+    },
+    {
+      "id": 112,
+      "filename": "Zain Bhikha - I Am A Muslim (Lyric Video).mp3",
+      "title": "Zain Bhikha - I Am A Muslim (Lyric Video)",
+      "artist": "Zain Bhikha",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Zain Bhikha - I Am A Muslim (Lyric Video).mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Zain%20Bhikha%20-%20I%20Am%20A%20Muslim%20%28Lyric%20Video%29.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Zain%20Bhikha%20-%20I%20Am%20A%20Muslim%20%28Lyric%20Video%29.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Zain%20Bhikha%20-%20I%20Am%20A%20Muslim%20%28Lyric%20Video%29.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 113,
+      "filename": "Zain Bhikha-Give Thanks To Allah.mp3",
+      "title": "Zain Bhikha-Give Thanks To Allah",
+      "artist": "Zain Bhikha",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Zain Bhikha-Give Thanks To Allah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Zain%20Bhikha-Give%20Thanks%20To%20Allah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Zain%20Bhikha-Give%20Thanks%20To%20Allah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Zain%20Bhikha-Give%20Thanks%20To%20Allah.mp3"
+      },
+      "category": "supplication",
+      "language": "english",
+      "tags": [
+        "supplication",
+        "english"
+      ]
+    },
+    {
+      "id": 114,
+      "filename": "Zain Bhikha-Mountains Of Makkah.mp3",
+      "title": "Zain Bhikha-Mountains Of Makkah",
+      "artist": "Zain Bhikha",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Zain Bhikha-Mountains Of Makkah.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Zain%20Bhikha-Mountains%20Of%20Makkah.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Zain%20Bhikha-Mountains%20Of%20Makkah.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Zain%20Bhikha-Mountains%20Of%20Makkah.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
+    },
+    {
+      "id": 115,
+      "filename": "Zain Bhikha-My Mum is Amazing.mp3",
+      "title": "Zain Bhikha-My Mum is Amazing",
+      "artist": "Zain Bhikha",
+      "format": "mp3",
+      "path": "C:\\Projects\\NasheedCollection\\Zain Bhikha-My Mum is Amazing.mp3",
+      "urls": {
+        "raw": "https://raw.githubusercontent.com/iamaanahmad/NasheedCollection/master/Zain%20Bhikha-My%20Mum%20is%20Amazing.mp3",
+        "cdn": "https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/Zain%20Bhikha-My%20Mum%20is%20Amazing.mp3",
+        "github_pages": "https://iamaanahmad.github.io/NasheedCollection/Zain%20Bhikha-My%20Mum%20is%20Amazing.mp3"
+      },
+      "category": "religious",
+      "language": "english",
+      "tags": [
+        "religious",
+        "english"
+      ]
     }
+  ],
+  "indices": {
+    "artists": {
+      "A Longing Person": [
+        16
+      ],
+      "Ahmad Hussain": [
+        18
+      ],
+      "Ahmed Bukhatir": [
+        19,
+        20,
+        33
+      ],
+      "Al Hamdulillah": [
+        22
+      ],
+      "Al Hayat": [
+        23
+      ],
+      "Al Madeena  Beautiful Arabic Nasheed": [
+        24
+      ],
+      "Ali Gulam": [
+        91
+      ],
+      "Anas Dosari": [
+        32
+      ],
+      "Arrows of Yesterday": [
+        25
+      ],
+      "Beats of Happiness": [
+        29
+      ],
+      "Beautiful Arabic Nasheed": [
+        30
+      ],
+      "Ehsaan Tahmid": [
+        55
+      ],
+      "Forgive Me": [
+        34
+      ],
+      "Ghuraba (The Strangers) Exclusive New Version": [
+        36
+      ],
+      "Here I Am Allah": [
+        38
+      ],
+      "Ishaq Ayubi": [
+        109
+      ],
+      "Kamal Uddin": [
+        40
+      ],
+      "Khaled Siddique": [
+        41,
+        42
+      ],
+      "Labbayk": [
+        26,
+        44,
+        45,
+        77,
+        86
+      ],
+      "MY LORD": [
+        69
+      ],
+      "Maher Zain": [
+        27,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ],
+      "Mishari Rashid Al Afasy": [
+        57
+      ],
+      "Mohammed Alomari": [
+        31
+      ],
+      "Muhammad Al-Muqit": [
+        39,
+        48,
+        67,
+        98,
+        100,
+        107,
+        65
+      ],
+      "Muhammad al Muq": [
+        58
+      ],
+      "Muhammad al Muqit": [
+        46,
+        47,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        66,
+        68,
+        70,
+        97,
+        102
+      ],
+      "Nadeem Mohammed": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ],
+      "Nasheed Taballah": [
+        78
+      ],
+      "No God But Allah": [
+        79
+      ],
+      "Oh My Lord": [
+        80
+      ],
+      "Omar Esa": [
+        17,
+        1,
+        56,
+        81,
+        82,
+        83,
+        84,
+        85,
+        95,
+        2,
+        104,
+        3,
+        110
+      ],
+      "Othman Al Ibrahim": [
+        28
+      ],
+      "Raid al-Qahtani": [
+        89
+      ],
+      "Ramadan Is My Life": [
+        88
+      ],
+      "SUBHAN ALLAH": [
+        92
+      ],
+      "SYRIA": [
+        93
+      ],
+      "Sami Yusuf": [
+        12
+      ],
+      "Seyifunmi": [
+        90
+      ],
+      "TEAR AFTER TEAR": [
+        94
+      ],
+      "The Beauty of Existence": [
+        96
+      ],
+      "The Good Is Still Alive": [
+        99
+      ],
+      "The Right Way": [
+        101
+      ],
+      "They Passed Through Here": [
+        103
+      ],
+      "Unknown": [
+        4,
+        21,
+        5,
+        6,
+        7,
+        35,
+        37,
+        43,
+        8,
+        9,
+        87,
+        10,
+        11,
+        13,
+        14,
+        15
+      ],
+      "We Rise to The Sky": [
+        105
+      ],
+      "Were Going Home": [
+        106
+      ],
+      "Withered Leaves": [
+        108
+      ],
+      "Yusuf Islam": [
+        111
+      ],
+      "Zain Bhikha": [
+        112,
+        113,
+        114,
+        115
+      ]
+    },
+    "categories": {
+      "emotional": [
+        16,
+        97,
+        102,
+        93,
+        94
+      ],
+      "religious": [
+        18,
+        19,
+        20,
+        33,
+        23,
+        24,
+        32,
+        25,
+        30,
+        34,
+        36,
+        109,
+        41,
+        42,
+        26,
+        44,
+        77,
+        86,
+        50,
+        52,
+        53,
+        57,
+        31,
+        72,
+        73,
+        74,
+        75,
+        17,
+        56,
+        81,
+        82,
+        83,
+        85,
+        95,
+        2,
+        104,
+        110,
+        89,
+        12,
+        90,
+        96,
+        99,
+        101,
+        103,
+        21,
+        7,
+        35,
+        37,
+        43,
+        8,
+        87,
+        11,
+        13,
+        14,
+        106,
+        108,
+        111,
+        112,
+        114,
+        115
+      ],
+      "supplication": [
+        22,
+        91,
+        55,
+        38,
+        45,
+        69,
+        27,
+        49,
+        51,
+        67,
+        62,
+        70,
+        71,
+        76,
+        78,
+        79,
+        80,
+        84,
+        3,
+        92,
+        4,
+        5,
+        6,
+        9,
+        15,
+        113
+      ],
+      "seasonal": [
+        29,
+        88
+      ],
+      "prophet": [
+        40,
+        54,
+        39,
+        48,
+        98,
+        100,
+        107,
+        65,
+        58,
+        46,
+        47,
+        59,
+        60,
+        63,
+        64,
+        66,
+        68,
+        1
+      ],
+      "motivational": [
+        61,
+        28,
+        105
+      ],
+      "quran": [
+        10
+      ]
+    },
+    "languages": {
+      "english": [
+        16,
+        33,
+        25,
+        29,
+        34,
+        36,
+        38,
+        26,
+        44,
+        45,
+        77,
+        86,
+        69,
+        27,
+        50,
+        51,
+        53,
+        31,
+        39,
+        67,
+        98,
+        100,
+        107,
+        72,
+        73,
+        74,
+        79,
+        80,
+        17,
+        82,
+        84,
+        95,
+        104,
+        110,
+        89,
+        88,
+        92,
+        12,
+        96,
+        99,
+        4,
+        5,
+        6,
+        7,
+        35,
+        37,
+        43,
+        8,
+        9,
+        87,
+        10,
+        11,
+        13,
+        14,
+        106,
+        108,
+        112,
+        113,
+        114,
+        115
+      ],
+      "arabic": [
+        18,
+        19,
+        20,
+        22,
+        23,
+        24,
+        32,
+        30,
+        109,
+        40,
+        41,
+        42,
+        52,
+        54,
+        57,
+        48,
+        65,
+        58,
+        46,
+        47,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        66,
+        68,
+        70,
+        97,
+        102,
+        71,
+        75,
+        76,
+        78,
+        56,
+        81,
+        83,
+        85,
+        2,
+        3,
+        28,
+        93,
+        90,
+        94,
+        101,
+        103,
+        21,
+        15,
+        105,
+        111
+      ],
+      "bangla": [
+        91,
+        55
+      ],
+      "urdu": [
+        49,
+        1
+      ]
+    }
+  },
+  "api_endpoints": {
+    "all_files": "/api/files",
+    "by_artist": "/api/files/artist/{artist_name}",
+    "by_category": "/api/files/category/{category_name}",
+    "by_language": "/api/files/language/{language_code}",
+    "search": "/api/files/search?q={query}",
+    "file_details": "/api/files/{file_id}"
+  }
+}

@@ -67,11 +67,35 @@ def clean_title(filename):
     title = re.sub(r'\s*by\s+[^-]+', '', title, flags=re.IGNORECASE)
     return title.strip('\'"').strip()
 
+# GitHub configuration
+GITHUB_USER = "iamaanahmad"
+GITHUB_REPO = "NasheedCollection"
+GITHUB_BRANCH = "master"
+
+def get_github_raw_url(filename):
+    """Generate GitHub raw URL for file (download)"""
+    from urllib.parse import quote
+    encoded_filename = quote(filename)
+    return f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/{GITHUB_BRANCH}/{encoded_filename}"
+
+def get_cdn_url(filename):
+    """Generate CDN URL for file (streaming/playback)"""
+    from urllib.parse import quote
+    encoded_filename = quote(filename)
+    return f"https://cdn.jsdelivr.net/gh/{GITHUB_USER}/{GITHUB_REPO}@{GITHUB_BRANCH}/{encoded_filename}"
+
+def get_github_pages_url(filename):
+    """Generate GitHub Pages URL (if enabled)"""
+    from urllib.parse import quote
+    encoded_filename = quote(filename)
+    return f"https://{GITHUB_USER.lower()}.github.io/{GITHUB_REPO}/{encoded_filename}"
+
 # Generate catalog
 files = []
 file_id = 1
+workspace_path = os.getcwd()
 
-for filename in os.listdir('/workspace'):
+for filename in os.listdir(workspace_path):
     if filename.endswith('.mp3'):
         title = clean_title(filename)
         artist = extract_artist(filename)
@@ -84,7 +108,12 @@ for filename in os.listdir('/workspace'):
             "title": title,
             "artist": artist,
             "format": "mp3",
-            "path": f"/workspace/{filename}",
+            "path": os.path.join(workspace_path, filename),
+            "urls": {
+                "raw": get_github_raw_url(filename),
+                "cdn": get_cdn_url(filename),
+                "github_pages": get_github_pages_url(filename)
+            },
             "category": category,
             "language": language,
             "tags": [category, language]
@@ -126,7 +155,8 @@ catalog = {
         "total_files": len(files),
         "last_updated": datetime.now().strftime("%Y-%m-%d"),
         "format": "mp3",
-        "base_path": "/workspace",
+        "base_path": workspace_path,
+        "github_repo": f"https://github.com/{GITHUB_USER}/{GITHUB_REPO}",
         "version": "1.0"
     },
     "files": files,
@@ -146,7 +176,7 @@ catalog = {
 }
 
 # Write catalog
-with open('/workspace/audio_catalog.json', 'w', encoding='utf-8') as f:
+with open('audio_catalog.json', 'w', encoding='utf-8') as f:
     json.dump(catalog, f, indent=2, ensure_ascii=False)
 
 print(f"Generated catalog with {len(files)} files")
