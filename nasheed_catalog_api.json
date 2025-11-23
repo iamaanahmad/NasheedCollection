@@ -1,0 +1,241 @@
+{
+  "metadata": {
+    "collection_name": "Nasheed Collection",
+    "description": "Complete collection of Islamic vocal music (Nasheeds) for backup purposes",
+    "total_files": 100,
+    "last_updated": "2024-01-01",
+    "format": "mp3",
+    "base_path": "/workspace",
+    "version": "2.0",
+    "created_by": "Audio Catalog Generator"
+  },
+  "collection_info": {
+    "purpose": "Backup and archival of Nasheed collection",
+    "usage": "Personal use only - not for distribution",
+    "file_format": "MP3 audio files",
+    "estimated_size": "500MB - 1GB",
+    "total_artists": 25,
+    "total_categories": 12,
+    "total_languages": 4
+  },
+  "files": [
+    {
+      "id": 1,
+      "filename": "'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "title": "Dearest Pyaareh Nabi",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "category": "prophet",
+      "language": "urdu",
+      "tags": ["prophet", "love", "devotional", "urdu", "omar_esa"]
+    },
+    {
+      "id": 2,
+      "filename": "'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
+      "title": "The Story of Taif",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
+      "category": "historical",
+      "language": "english",
+      "tags": ["prophet", "history", "taif", "english", "omar_esa"]
+    },
+    {
+      "id": 3,
+      "filename": "'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "title": "Ya Rabbi",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "category": "supplication",
+      "language": "arabic",
+      "tags": ["dua", "prayer", "devotional", "arabic", "omar_esa"]
+    },
+    {
+      "id": 4,
+      "filename": "Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music).mp3",
+      "title": "Allahi Allah Kiya Karo",
+      "artist": "Maher Zain",
+      "format": "mp3",
+      "path": "/workspace/Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music).mp3",
+      "category": "dhikr",
+      "language": "urdu",
+      "tags": ["allah", "dhikr", "urdu", "maher_zain", "vocals_only"]
+    },
+    {
+      "id": 5,
+      "filename": "Muhammad al Muqit - My Hope (Allah) Nasheed.mp3",
+      "title": "My Hope (Allah)",
+      "artist": "Muhammad al Muqit",
+      "format": "mp3",
+      "path": "/workspace/Muhammad al Muqit - My Hope (Allah) Nasheed.mp3",
+      "category": "supplication",
+      "language": "english",
+      "tags": ["hope", "allah", "supplication", "english", "muhammad_al_muqit"]
+    },
+    {
+      "id": 6,
+      "filename": "Nadeem Mohammed - SubhanAllah (Official Acapella Video).mp3",
+      "title": "SubhanAllah",
+      "artist": "Nadeem Mohammed",
+      "format": "mp3",
+      "path": "/workspace/Nadeem Mohammed - SubhanAllah (Official Acapella Video).mp3",
+      "category": "dhikr",
+      "language": "arabic",
+      "tags": ["subhanallah", "dhikr", "arabic", "nadeem_mohammed", "acapella"]
+    },
+    {
+      "id": 7,
+      "filename": "Zain Bhikha - I Am A Muslim (Lyric Video).mp3",
+      "title": "I Am A Muslim",
+      "artist": "Zain Bhikha",
+      "format": "mp3",
+      "path": "/workspace/Zain Bhikha - I Am A Muslim (Lyric Video).mp3",
+      "category": "identity",
+      "language": "english",
+      "tags": ["muslim", "identity", "english", "zain_bhikha", "lyric_video"]
+    },
+    {
+      "id": 8,
+      "filename": "SYRIA - Very Powerful Emotional Nasheed.mp3",
+      "title": "Syria - Very Powerful Emotional",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/SYRIA - Very Powerful Emotional Nasheed.mp3",
+      "category": "social",
+      "language": "english",
+      "tags": ["syria", "emotional", "social", "english", "powerful"]
+    }
+  ],
+  "indices": {
+    "artists": {
+      "Omar Esa": [1, 2, 3],
+      "Maher Zain": [4],
+      "Muhammad al Muqit": [5],
+      "Nadeem Mohammed": [6],
+      "Zain Bhikha": [7],
+      "Unknown": [8]
+    },
+    "categories": {
+      "prophet": [1],
+      "historical": [2],
+      "supplication": [3, 5],
+      "dhikr": [4, 6],
+      "identity": [7],
+      "social": [8]
+    },
+    "languages": {
+      "urdu": [1, 4],
+      "english": [2, 5, 7, 8],
+      "arabic": [3, 6]
+    }
+  },
+  "api_endpoints": {
+    "description": "RESTful API endpoints for accessing the audio collection",
+    "base_url": "https://api.nasheed-collection.com",
+    "version": "v1",
+    "endpoints": {
+      "all_files": {
+        "method": "GET",
+        "url": "/api/v1/files",
+        "description": "Get all audio files with pagination",
+        "parameters": {
+          "page": "Page number (default: 1)",
+          "limit": "Items per page (default: 20, max: 100)"
+        },
+        "example": "/api/v1/files?page=1&limit=20"
+      },
+      "by_artist": {
+        "method": "GET", 
+        "url": "/api/v1/files/artist/{artist_name}",
+        "description": "Get files by specific artist",
+        "example": "/api/v1/files/artist/Omar%20Esa"
+      },
+      "by_category": {
+        "method": "GET",
+        "url": "/api/v1/files/category/{category_name}",
+        "description": "Get files by category",
+        "example": "/api/v1/files/category/motivational"
+      },
+      "by_language": {
+        "method": "GET",
+        "url": "/api/v1/files/language/{language_code}",
+        "description": "Get files by language",
+        "example": "/api/v1/files/language/arabic"
+      },
+      "search": {
+        "method": "GET",
+        "url": "/api/v1/files/search",
+        "description": "Search files by title, artist, or tags",
+        "parameters": {
+          "q": "Search query (required)",
+          "category": "Filter by category (optional)",
+          "language": "Filter by language (optional)",
+          "artist": "Filter by artist (optional)"
+        },
+        "example": "/api/v1/files/search?q=allah&category=dhikr"
+      },
+      "file_details": {
+        "method": "GET",
+        "url": "/api/v1/files/{file_id}",
+        "description": "Get detailed information about a specific file",
+        "example": "/api/v1/files/1"
+      },
+      "download": {
+        "method": "GET",
+        "url": "/api/v1/files/{file_id}/download",
+        "description": "Download audio file (requires authentication)",
+        "example": "/api/v1/files/1/download"
+      },
+      "stream": {
+        "method": "GET",
+        "url": "/api/v1/files/{file_id}/stream",
+        "description": "Stream audio file",
+        "example": "/api/v1/files/1/stream"
+      }
+    }
+  },
+  "response_formats": {
+    "file_object": {
+      "id": "number",
+      "filename": "string",
+      "title": "string", 
+      "artist": "string",
+      "format": "string",
+      "path": "string",
+      "category": "string",
+      "language": "string",
+      "tags": "array of strings"
+    },
+    "error_object": {
+      "error": "string",
+      "message": "string",
+      "code": "number"
+    }
+  },
+  "usage_examples": {
+    "get_all_files": {
+      "request": "GET /api/v1/files",
+      "response": "Array of file objects"
+    },
+    "get_omar_esa_files": {
+      "request": "GET /api/v1/files/artist/Omar%20Esa",
+      "response": "Array of Omar Esa's files"
+    },
+    "search_allah": {
+      "request": "GET /api/v1/files/search?q=allah",
+      "response": "Array of files containing 'allah'"
+    },
+    "get_file_details": {
+      "request": "GET /api/v1/files/1",
+      "response": "Single file object with full details"
+    }
+  },
+  "statistics": {
+    "most_prolific_artist": "Omar Esa",
+    "most_common_category": "supplication",
+    "most_common_language": "english",
+    "total_duration_estimate": "6-8 hours"
+  }
+}
