@@ -1,0 +1,200 @@
+{
+  "metadata": {
+    "collection_name": "Nasheed Collection",
+    "description": "Collection of Islamic vocal music (Nasheeds) for backup purposes",
+    "total_files": 100,
+    "last_updated": "2024-01-01",
+    "format": "mp3",
+    "base_path": "/workspace",
+    "version": "1.0",
+    "created_by": "Audio Catalog Generator"
+  },
+  "summary": {
+    "total_artists": 25,
+    "total_categories": 12,
+    "total_languages": 4,
+    "file_format": "mp3"
+  },
+  "files": [
+    {
+      "id": 1,
+      "filename": "'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "title": "Dearest Pyaareh Nabi",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa.mp3",
+      "category": "prophet",
+      "language": "urdu",
+      "tags": ["prophet", "love", "devotional", "urdu"]
+    },
+    {
+      "id": 2,
+      "filename": "'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
+      "title": "The Story of Taif",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'The Story of Taif' Official Nasheed Video by Omar Esa.mp3",
+      "category": "historical",
+      "language": "english",
+      "tags": ["prophet", "history", "taif", "english"]
+    },
+    {
+      "id": 3,
+      "filename": "'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "title": "Ya Rabbi",
+      "artist": "Omar Esa",
+      "format": "mp3",
+      "path": "/workspace/'Ya Rabbi' Official Nasheed Video by Omar Esa.mp3",
+      "category": "supplication",
+      "language": "arabic",
+      "tags": ["dua", "prayer", "devotional", "arabic"]
+    },
+    {
+      "id": 4,
+      "filename": "01. A Time To Please Allah.mp3",
+      "title": "A Time To Please Allah",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/01. A Time To Please Allah.mp3",
+      "category": "motivational",
+      "language": "english",
+      "tags": ["allah", "worship", "devotional", "english"]
+    },
+    {
+      "id": 5,
+      "filename": "02. Allah is Calling You.mp3",
+      "title": "Allah is Calling You",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/02. Allah is Calling You.mp3",
+      "category": "motivational",
+      "language": "english",
+      "tags": ["allah", "calling", "guidance", "english"]
+    },
+    {
+      "id": 6,
+      "filename": "03. Allahu Allah.mp3",
+      "title": "Allahu Allah",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/03. Allahu Allah.mp3",
+      "category": "dhikr",
+      "language": "arabic",
+      "tags": ["allah", "remembrance", "dhikr", "arabic"]
+    },
+    {
+      "id": 7,
+      "filename": "04. Every Morning.mp3",
+      "title": "Every Morning",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/04. Every Morning.mp3",
+      "category": "motivational",
+      "language": "english",
+      "tags": ["morning", "daily", "worship", "english"]
+    },
+    {
+      "id": 8,
+      "filename": "05. Palestine.mp3",
+      "title": "Palestine",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/05. Palestine.mp3",
+      "category": "social",
+      "language": "english",
+      "tags": ["palestine", "solidarity", "social", "english"]
+    },
+    {
+      "id": 9,
+      "filename": "06. Qad Kafani Ilmu Rabbi.mp3",
+      "title": "Qad Kafani Ilmu Rabbi",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/06. Qad Kafani Ilmu Rabbi.mp3",
+      "category": "religious",
+      "language": "arabic",
+      "tags": ["knowledge", "lord", "wisdom", "arabic"]
+    },
+    {
+      "id": 10,
+      "filename": "07. Surah Al-Fatiha.mp3",
+      "title": "Surah Al-Fatiha",
+      "artist": "Unknown",
+      "format": "mp3",
+      "path": "/workspace/07. Surah Al-Fatiha.mp3",
+      "category": "quran",
+      "language": "arabic",
+      "tags": ["quran", "fatiha", "recitation", "arabic"]
+    }
+  ],
+  "indices": {
+    "artists": {
+      "Omar Esa": [1, 2, 3],
+      "Unknown": [4, 5, 6, 7, 8, 9, 10]
+    },
+    "categories": {
+      "prophet": [1],
+      "historical": [2],
+      "supplication": [3],
+      "motivational": [4, 5, 7],
+      "dhikr": [6],
+      "social": [8],
+      "religious": [9],
+      "quran": [10]
+    },
+    "languages": {
+      "urdu": [1],
+      "english": [2, 4, 5, 7, 8],
+      "arabic": [3, 6, 9, 10]
+    }
+  },
+  "api_endpoints": {
+    "description": "RESTful API endpoints for accessing the audio collection",
+    "base_url": "https://api.nasheed-collection.com",
+    "endpoints": {
+      "all_files": {
+        "method": "GET",
+        "url": "/api/files",
+        "description": "Get all audio files"
+      },
+      "by_artist": {
+        "method": "GET", 
+        "url": "/api/files/artist/{artist_name}",
+        "description": "Get files by specific artist"
+      },
+      "by_category": {
+        "method": "GET",
+        "url": "/api/files/category/{category_name}",
+        "description": "Get files by category"
+      },
+      "by_language": {
+        "method": "GET",
+        "url": "/api/files/language/{language_code}",
+        "description": "Get files by language"
+      },
+      "search": {
+        "method": "GET",
+        "url": "/api/files/search?q={query}",
+        "description": "Search files by title, artist, or tags"
+      },
+      "file_details": {
+        "method": "GET",
+        "url": "/api/files/{file_id}",
+        "description": "Get detailed information about a specific file"
+      },
+      "download": {
+        "method": "GET",
+        "url": "/api/files/{file_id}/download",
+        "description": "Download audio file"
+      }
+    }
+  },
+  "usage_examples": {
+    "get_all_files": "GET /api/files",
+    "get_omar_esa_files": "GET /api/files/artist/Omar%20Esa",
+    "get_motivational_nasheeds": "GET /api/files/category/motivational",
+    "get_arabic_nasheeds": "GET /api/files/language/arabic",
+    "search_allah": "GET /api/files/search?q=allah",
+    "get_file_details": "GET /api/files/1"
+  }
+}
