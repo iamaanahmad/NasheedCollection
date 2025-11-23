@@ -1,1 +1,0 @@
-exec(open('/workspace/simple_catalog.py').read())
