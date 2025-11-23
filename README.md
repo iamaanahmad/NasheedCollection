@@ -1,126 +1,157 @@
 # Nasheed Collection
 
-Collection of Nasheeds. These are intended to backup purposes, should not be shared or distributed.
+A curated collection of Islamic vocal music (Nasheeds) for personal archival and educational purposes.
 
---- 
-## Version 2018-03-19
-- Al Hayat - Ahmed Al Muqit
-- Al Madeena  Beautiful Arabic Nasheed
-- Nadeem Mohammed -  By Allah
-- Nadeem Mohammed - SubhanAllah
-- Omar Esa - Tera Pyaar  Your Love 
-- SUBHAN ALLAH - Omar Esa
-- Muhammad al Muqit - I Am Resistant
+## 📋 About This Collection
 
-## Version 2018-01-28
+This repository contains 115+ Islamic Nasheeds (vocal-only Islamic songs) from various artists. The collection is organized and cataloged for easy access and reference.
 
-- 'Dearest Pyaareh Nabi' Official Nasheed Video by Omar Esa
-- 'The Story of Taif' Official Nasheed Video by Omar Esa
-- 'Ya Rabbi' Official Nasheed Video by Omar Esa
-- A Time To Please Allah
-- Allah is Calling You
-- Allahu Allah
-- Every Morning
-- Palestine
-- Qad Kafani Ilmu Rabbi
-- Surah Al-Fatiha
-- The Greatest Gift
-- Mesut Kurtis feat. Sami Yusuf - Burdah (Bonus)
-- The Path Of A Traveller
-- Together We Pray
-- Ya Rabbi Bil Mustafa
-- A Longing Person - Sad nasheed - Eng Sub
-- Adele - Hello (Muslim Version by Omar Esa)
-- Ahmad Hussain - Ya Taiba
-- Ahmed Bukhatir - Ya Adheeman
-- Ahmed Bukhatir - Ya Akhi (My Brother)
-- Al Ardu Nasheed
-- Al Hamdulillah - Beautiful Nasheed Thanks To Allah
-- Arrows of Yesterday - Castillo Nasheeds
-- Asma ul Husna by Labbayk  Voice Only Nasheed  Gratitude Album
-- Barakallah Nasheed By Maher Zain (No Music) Only Vocals HD 1080P
-- Be Happy - Motivational Nasheed - Othman Al Ibrahim
-- Beats of Happiness - Eid Nasheed
-- Beautiful Arabic Nasheed - Hoor al Ayn
-- Enta Malaak (Ekaa) by Mohammed Alomari
-- Farhat al amr - Anas Dosari
-- Fartaqi by Ahmed Bukhatir
-- Forgive Me - Mind Blowing Nasheed
-- Fortunate Is He
-- Ghuraba (The Strangers) Exclusive New Version - Nasheed
-- Hayatiz Zulli
-- Here I Am Allah - Beautiful Nasheed
-- I Seek Protection By Muhammad Al-Muqit
-- Kamal Uddin-His Name is Muhammad
-- Khaled Siddique - Home (Official Nasheed Video)
-- Khaled Siddique - My Love (Official Nasheed Video)
-- Khalid Bin Walid the best nasheed
-- Labbayk - Rabbana
-- Labbayk Allah Voice Only Beautiful Nasheed @ by Labbayk @ Gratitude Album
-- Light of Guidance - Nasheed By Muhammad al Muqit
-- Loyalty Nasheed by Muhammad al Muqit
-- MY LORD - Short Nasheed
-- Ma al Qamar {Eng subtitles} - مع القمر- محمد المقيط - Muhammad Al-Muqit
-- Maher Zain - Allahi Allah Kiya Karo - Vocals Only Version (No Music)
-- Maher Zain - Always Be There - Vocals Only Version (No Music)
-- Maher Zain - Insha Allah - English - Vocals Only Version (No Music)
-- Maher Zain - Mawlaya - Vocals Only Version (No Music)
-- Maher Zain - So Soon - Vocals Only Version (No Music)
-- Maher Zain - Ya Nabi Salam Alayka (International Version) l Vocals Only (No Music)
-- Matir Bari - Ehsaan Tahmid - O My Lord (Bangla)
-- Mawlaya Salli - Omar Esa - Official Nasheed Video
-- Mishari Rashid Al Afasy - Rahman
-- Muhammad al Muq - Tabsirah (Arabic Nasheed)
-- Muhammad al Muqit - Benevolent Rain
-- Muhammad al Muqit - I Rise
-- Muhammad al Muqit - My Hope (Allah) Nasheed
-- Muhammad al Muqit - My Messenger
-- Muhammad al Muqit - Welcome
-- My Arabic Language - Nasheed By Muhammad al Muqit
-- My Complaint Is To Allah - Muhammad al-Muqit - Nasheed
-- My Dream - Short Nasheed By- Muhammad al Muqit
-- My Lords Knowledge - Beautiful Soothing Nasheed by Muhammad al Muqit
-- Nadeem Mohammed - Ar-Rahman (Nasheed)
-- Nadeem Mohammed - Believer (Nasheed)
-- Nadeem Mohammed - Catch Me When I Fall
-- Nadeem Mohammed - Just Keep Repeating (Official Acapella Video)
-- Nasheed Taballah - Darb al Saleen
-- Nasheed by Labbayk - Prelude Track
-- No God But Allah - EXCLUSIVE NASHEED
-- Oh My Lord - Heart Warming Nasheed
-- Omar Esa - Dawah Ft. Muslim Belal (Official Nasheed Video)
-- Omar Esa - Kun Anta - Be Yourself (Omar Esa Version)
-- Omar Esa - Rabb (Official Nasheed Video)
-- Omar Esa - Remembrance of Allah
-- Qasidah Burdah by Labbayk
-- Qasidah Burdah nasheed
-- README.md
-- Ramadan Is My Life - Amazing Nasheed
-- Rawaa' Beautiful Nasheed By Raid al-Qahtani
-- Rhamzan - Seyifunmi (Official Nasheed Video)  No Music
-- SYRIA - Very Powerful Emotional Nasheed
-- Sharey Tin Haat - Ali Gulam - O My Lord (Bangla)
-- TEAR AFTER TEAR - EMOTIONAL NASHEED
-- Testify (Islam) - Exclusive Nasheed By- Omar Esa
-- The Beauty of Existence - Heart Touching Nasheed
-- The Broken By Muhammad Al Muqit - New Nasheed
-- The Feelings of Love - Muhammad al-Muqit
-- The Good Is Still Alive - Beautiful Nasheed
-- The Land of al-Haram ?? - Powerful Nasheed - By- Muhammad al-Muqit
-- The Right Way - Powerful Vocal Nasheed
-- The Way of The Tears - Exclusive Nasheed - Muhammad al Muqit
-- They Passed Through Here - Inspirational Nasheed
-- Tum Hi Ho (Muslim Version by Omar Esa)
-- We Rise to The Sky - Nasheed By Ahmad Al Muqit
-- Were Going Home - Heart Touching Nasheed
-- Where I Find Rest - Powerful Nasheed - Muhammad Al-Muqit
-- Withered Leaves - Peaceful Nasheed
-- Ya Ilahi - Powerful Nasheed By Ishaq Ayubi
-- You're My Wife Alhumdullilah by Omar Esa - Typography
-- Yusuf Islam - Tala Al Badru Alayna
-- Zain Bhikha - I Am A Muslim (Lyric Video)
-- Zain Bhikha-Give Thanks To Allah
-- Zain Bhikha-Mountains Of Makkah
-- Zain Bhikha-My Mum is Amazing
-- munshid Muhammad Al-Muqit- New taweel al shawq-Long Longing HD
---- 
+**Live Collection:** [https://iamaanahmad.github.io/NasheedCollection/](https://iamaanahmad.github.io/NasheedCollection/)
+
+## ⚖️ Copyright & Legal Notice
+
+**IMPORTANT:** This repository is maintained for **personal archival, educational, and non-commercial purposes only**.
+
+### Copyright Disclaimer
+
+- All audio files in this collection are the property of their respective copyright holders and artists
+- This repository does NOT claim ownership of any content
+- All rights belong to the original artists, producers, and copyright holders
+- Files are sourced from publicly available platforms (YouTube, SoundCloud, etc.) where they were originally shared
+
+### Fair Use Statement
+
+This collection may be considered fair use under copyright law for the following reasons:
+- **Purpose:** Personal archival, educational, and religious study
+- **Nature:** Publicly available content, primarily vocal-only religious content
+- **Effect:** No commercial use or monetary gain; does not compete with original sources
+- **Non-Commercial:** This is a personal backup collection with no monetization
+
+### Respect for Artists
+
+We deeply respect and appreciate all the artists featured in this collection:
+- Omar Esa
+- Maher Zain
+- Muhammad al Muqit
+- Nadeem Mohammed
+- Ahmed Bukhatir
+- Zain Bhikha
+- And many more talented nasheed artists
+
+**Please support these artists** by:
+- Purchasing their official albums
+- Streaming on official platforms
+- Attending their events
+- Following their official channels
+
+## 🎵 Collection Features
+
+- **115+ Nasheeds** from 49+ artists
+- **Multiple languages:** Arabic, English, Urdu, Bangla
+- **Categories:** Emotional, Motivational, Supplication, Prophet (PBUH), Quran, Seasonal, and more
+- **JSON API** for programmatic access
+- **Web Interface** with search, filters, and audio player
+
+## 🔗 Access Methods
+
+### Web Interface
+Visit: [https://iamaanahmad.github.io/NasheedCollection/](https://iamaanahmad.github.io/NasheedCollection/)
+
+### API Access
+```
+https://iamaanahmad.github.io/NasheedCollection/audio_catalog.json
+```
+
+### CDN Streaming
+```
+https://cdn.jsdelivr.net/gh/iamaanahmad/NasheedCollection@master/[filename].mp3
+```
+
+## 📊 Collection Statistics
+
+- **Total Files:** 115
+- **Artists:** 49+
+- **Categories:** 7 (Emotional, Motivational, Supplication, Prophet, Quran, Seasonal, Religious)
+- **Languages:** 4 (Arabic, English, Urdu, Bangla)
+- **Format:** MP3
+- **Last Updated:** 2025-11-23
+
+## 🛠️ Technical Details
+
+### Files Structure
+```
+├── audio_catalog.json      # Complete catalog with metadata
+├── simple_catalog.py       # Catalog generator script
+├── index.html             # Web interface
+└── *.mp3                  # Audio files
+```
+
+### Catalog Structure
+Each entry includes:
+- Unique ID
+- Title and Artist
+- Multiple access URLs (Raw, CDN, GitHub Pages)
+- Category and Language
+- Searchable tags
+
+### Regenerate Catalog
+```bash
+python simple_catalog.py
+```
+
+## 📝 Usage Guidelines
+
+### ✅ Permitted Uses
+- Personal listening and spiritual benefit
+- Educational and religious study
+- Non-commercial archival
+- Sharing links to this repository (not the files themselves)
+
+### ❌ Prohibited Uses
+- Commercial use or monetization
+- Redistribution for profit
+- Claiming ownership of content
+- Removing artist attribution
+- Using in ways that violate copyright law
+
+## 🙏 Acknowledgments
+
+- All praise is due to Allah (SWT)
+- Gratitude to all nasheed artists for their beautiful work
+- Thanks to the Islamic community for supporting halal entertainment
+
+## 📧 Copyright Concerns
+
+If you are a copyright holder and have concerns about any content in this repository:
+
+1. Please contact me at: [Your Contact Method]
+2. I will promptly remove any disputed content
+3. I respect all copyright claims and takedown requests
+
+**This repository is maintained in good faith for religious and educational purposes. If any content violates your rights, please let me know and it will be removed immediately.**
+
+## 🔄 Version History
+
+### Version 2025-11-23
+- Added web interface with audio player
+- Created JSON API catalog
+- Implemented search and filter functionality
+- Added multiple access methods (CDN, GitHub Pages, Raw)
+
+### Version 2018-03-19
+- Added nasheeds from Ahmed Al Muqit, Nadeem Mohammed, Omar Esa
+
+### Version 2018-01-28
+- Initial collection with 100+ nasheeds
+
+## 📜 License
+
+This repository structure and code (catalog generator, web interface) are provided under MIT License.
+
+**Audio files:** All rights reserved by respective copyright holders. See Copyright Notice above.
+
+---
+
+**Note:** This is a personal collection maintained for religious and educational purposes. All content belongs to the original artists and copyright holders. Please support the artists by purchasing their official content.
+
+**May Allah accept this effort and benefit the Muslim community. Ameen.**
